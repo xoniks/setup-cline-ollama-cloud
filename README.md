@@ -1,2 +1,2 @@
 # setup-cline-ollama-cloud
-Step-by-step student guide to set up the Cline AI coding agent with Ollama Cloud — on desktop or in GitHub Codespaces, all from the terminal.
+A hands-on Jupyter notebook that walks students through installing and running Cline (an open-source AI coding agent) backed by Ollama Cloud. Covers two paths — your own PC and GitHub Codespaces — with copy-ready terminal commands, secure auth via a Codespaces secret (no browser sign-in), and guidance on picking light, limit-friendly cloud models so the free tier lasts. Includes a command cheat sheet, troubleshooting, and safe-use notes for the classroom.
